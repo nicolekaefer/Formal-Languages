@@ -1,4 +1,5 @@
 569823$
-test data23494
-miau65€
-mickeymouse3240$
+test data 23494
+miau6.5€
+mickeymouse 32.40$
+42something.243.$
